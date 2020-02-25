@@ -11,7 +11,7 @@ import com.google.gson.annotations.SerializedName
 import kotlinx.android.parcel.Parcelize
 
 /**
- * Data class for saving authentication token locally for open-api.xyz
+ * Data class for saving authentication token locally for Cyberveda
  * NOTES:
  * 1) local 'auth_token' table has foreign key relationship to 'account_properties' table through 'account' field (PK)
  *
